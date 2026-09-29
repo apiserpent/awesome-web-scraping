@@ -126,6 +126,7 @@ Libraries for working with WebSocket.
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
 * [scrapely](https://github.com/scrapy/scrapely) - Library for extracting structured data from HTML pages. Given some example web pages and the data to be extracted, scrapely constructs a parser for all similar pages.
+* [SerpentAPI](https://apiserpent.com/) - Fast, real-time Google search and SERP API for AI agents, web scrapers, and content extraction workflows.
 * [htmldate](https://github.com/adbar/htmldate) - Find creation date using common structural patterns or text-based heuristics.
 * [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
 * [html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
